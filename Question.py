@@ -1,0 +1,6 @@
+print('Hello, I am Python')
+how=input('How are you doing\n')
+name=input('what is your name\n')
+age=int(input('How old are you\n'))
+year=str((2018-age)+100)
+print('Your name is',name,'You are',age,'you will be 100yrs old in the year',year,'and I tell you are doing just',how)
